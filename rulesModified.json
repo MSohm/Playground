@@ -51,11 +51,11 @@
 		"UploadMonthlyLimit": "LIMIT_100MB"
 	},
 	"Features": {
-		"AppMalware_Enabled": "ENABLED",
-		"AppSideload_Enabled": "ENABLED",
-		"DeviceSecurity_Enabled": "ENABLED",
-		"DeviceSoftware_Enabled": "ENABLED",
-		"SafeBrowsing_Enabled": "ENABLED",
-		"SafeMessaging_Enabled": "ENABLED"
+		"AppMalware_Enabled": "DISABLED",
+		"AppSideload_Enabled": "DISABLED",
+		"DeviceSecurity_Enabled": "DISABLED",
+		"DeviceSoftware_Enabled": "DISABLED",
+		"SafeBrowsing_Enabled": "DISABLED",
+		"SafeMessaging_Enabled": "DISABLED"
 		}
 }		
