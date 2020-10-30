@@ -20,20 +20,20 @@
 		"DisallowedIPs": ["192.168.10.10", "192.168.10.11"]
 	},
 	"DeviceSecurityRules": {
-		"DeviceLockScreen_Check": "Enabled",
-		"DeviceLockScreen_EnforcementAction": "NOTIFY",
+		"DeviceLockScreen_Check": "Disabled",
+		"DeviceLockScreen_EnforcementAction": "TERMINATE_PROCESS",
 		"DeveloperMode_Check": "Enabled",
-		"DeveloperMode_EnforcementAction": "NOTIFY",
-		"DeviceEncryption_Check": "Enabled",
-		"DeviceEncryption_EnforcementAction": "NOTIFY",
-		"JailbreakDetection_Check": "Enabled",
-		"JailbreakDetection_EnforcementAction": "NOTIFY",
-		"AndroidHWKeyVerifyBoot_Check": "Enabled",
-		"AndroidHWKeyVerifyBoot_EnforcementAction": "NOTIFY",
-		"DebugDetection_Check": "Enabled",
-		"DebugDetection_EnforcementAction": "NOTIFY",
-		"HookDetection_Check": "Enabled",
-		"HookDetection_EnforcementAction": "NOTIFY"
+		"DeveloperMode_EnforcementAction": "TERMINATE_PROCESS",
+		"DeviceEncryption_Check": "Disabled",
+		"DeviceEncryption_EnforcementAction": "TERMINATE_PROCESS",
+		"JailbreakDetection_Check": "Disabled",
+		"JailbreakDetection_EnforcementAction": "TERMINATE_PROCESS",
+		"AndroidHWKeyVerifyBoot_Check": "Disabled",
+		"AndroidHWKeyVerifyBoot_EnforcementAction": "TERMINATE_PROCESS",
+		"DebugDetection_Check": "Disabled",
+		"DebugDetection_EnforcementAction": "TERMINATE_PROCESS",
+		"HookDetection_Check": "Disabled",
+		"HookDetection_EnforcementAction": "TERMINATE_PROCESS"
 	},
 	"DeviceSoftwareRules": {
 		"DeviceSecurityPatchSoftware_Check": "Enabled",
