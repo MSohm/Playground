@@ -43,7 +43,7 @@
 		"ManufacturerDenyList": [],
 		"ModelDenyList": [],
 		"MinimumOSVersion": "0",
-		"SecurityPatchMinimumDate": 1540922010778
+		"SecurityPatchMinimumDate": 0
 	},
 	"DataCollectionRules": {
 		"DataCollectionEnabled": true,
