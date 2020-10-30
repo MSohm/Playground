@@ -43,7 +43,7 @@
 		"ManufacturerDenyList": ["Sony", "OnePlus"],
 		"ModelDenyList": ["P100", "99"],
 		"MinimumOSVersion": "5.0",
-		"SecurityPatchMinimumDate": "Sat Oct 30 16:27:15 EDT 2019"
+		"SecurityPatchMinimumDate": 1603994010778
 	},
 	"DataCollectionRules": {
 		"DataCollectionEnabled": true,
