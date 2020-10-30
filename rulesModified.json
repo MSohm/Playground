@@ -12,8 +12,8 @@
 		"MalwareUploadMonthlySizeLimit_Cellular_WiFi": -1
 	},
 	"ContentCheckerRules": {
-		"SafeBrowsing_CheckType": "CLOUD",
-		"SafeMessaging_CheckType": "CLOUD",
+		"SafeBrowsing_CheckType": "ON_DEVICE",
+		"SafeMessaging_CheckType": "ON_DEVICE",
 		"AllowedDomainURLs": ["www.blackberry.com", "news.google.ca"],
 		"DisallowedDomainURLs": ["www.apple.com", "www.virus.com"],
 		"AllowedIPs": ["192.168.1.1", "192.168.1.2"],
