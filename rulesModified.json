@@ -46,9 +46,9 @@
 		"SecurityPatchMinimumDate": 1603994010778
 	},
 	"DataCollectionRules": {
-		"DataCollectionEnabled": true,
-		"UploadType": "WIFI_WHILE_CHARGING",
-		"UploadMonthlyLimit": "LIMIT_10MB"
+		"DataCollectionEnabled": false,
+		"UploadType": "WIFI_AND_MOBILE",
+		"UploadMonthlyLimit": "LIMIT_100MB"
 	},
 	"Features": {
 		"AppMalware_Enabled": "ENABLED",
