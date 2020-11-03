@@ -35,7 +35,7 @@
 		"HookDetection_Check": "Disabled",
 		"HookDetection_EnforcementAction": "TERMINATE_PROCESS"
 	},
-	"DeviceSoftwareRules": {
+	"AndroidDeviceSoftwareRules": {
 		"DeviceSecurityPatchSoftware_Check": "Disabled",
 		"DeviceOSSoftware_Check": "Disabled",
 		"DeviceManufacturer_Check": "Disabled",
