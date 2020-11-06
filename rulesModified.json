@@ -43,7 +43,7 @@
 		"ManufacturerDenyList": ["Sony", "BlackBerry"],
 		"ModelDenyList": ["P100", "99"],
 		"MinimumOSVersion": "6.0",
-		"SecurityPatchMinimumDate": 1603994010778
+		"SecurityPatchMinimumDate": 1603994010779
 	},
 	"DataCollectionRules": {
 		"DataCollectionEnabled": false,
