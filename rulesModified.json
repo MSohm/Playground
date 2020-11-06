@@ -36,13 +36,13 @@
 		"HookDetection_EnforcementAction": "TERMINATE_PROCESS"
 	},
 	"AndroidDeviceSoftwareRules": {
-		"DeviceSecurityPatchSoftware_Check": "Enabled",
-		"DeviceOSSoftware_Check": "Enabled",
-		"DeviceManufacturer_Check": "Enabled",
-		"DeviceModel_Check": "Enabled",
+		"DeviceSecurityPatchSoftware_Check": "Disabled",
+		"DeviceOSSoftware_Check": "Disabled",
+		"DeviceManufacturer_Check": "Disabled",
+		"DeviceModel_Check": "Disabled",
 		"ManufacturerDenyList": ["Sony", "BlackBerry"],
 		"ModelDenyList": ["P100", "99"],
-		"MinimumOSVersion": "5.0",
+		"MinimumOSVersion": "6.0",
 		"SecurityPatchMinimumDate": 1603994010778
 	},
 	"DataCollectionRules": {
