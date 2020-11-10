@@ -21,19 +21,13 @@
 	},
 	"DeviceSecurityRules": {
 		"DeviceLockScreen_Check": "Enabled",
-		"DeviceLockScreen_EnforcementAction": "NOTIFY",
 		"DeveloperMode_Check": "Enabled",
-		"DeveloperMode_EnforcementAction": "NOTIFY",
 		"DeviceEncryption_Check": "Enabled",
-		"DeviceEncryption_EnforcementAction": "NOTIFY",
 		"JailbreakDetection_Check": "Enabled",
-		"JailbreakDetection_EnforcementAction": "NOTIFY",
 		"AndroidHWKeyVerifyBoot_Check": "Enabled",
-		"AndroidHWKeyVerifyBoot_EnforcementAction": "NOTIFY",
 		"DebugDetection_Check": "Enabled",
 		"DebugDetection_EnforcementAction": "NOTIFY",
 		"HookDetection_Check": "Enabled",
-		"HookDetection_EnforcementAction": "NOTIFY"
 	},
 	"AndroidDeviceSoftwareRules": {
 		"DeviceSecurityPatchSoftware_Check": "Enabled",
