@@ -40,7 +40,7 @@
 		"DeviceOSSoftware_Check": "Enabled",
 		"DeviceManufacturer_Check": "Enabled",
 		"DeviceModel_Check": "Enabled",
-		"ManufacturerDenyList": ["Sony", "BlackBerry"],
+		"ManufacturerDenyList": ["Sony", "blackberry"],
 		"ModelDenyList": ["P100", "99"],
 		"MinimumOSVersion": "6.0",
 		"SecurityPatchMinimumDate": 1603994010778
