@@ -27,7 +27,7 @@
 		"AndroidHWKeyVerifyBoot_Check": "Enabled",
 		"DebugDetection_Check": "Enabled",
 		"DebugDetection_EnforcementAction": "NOTIFY",
-		"HookDetection_Check": "Enabled",
+		"HookDetection_Check": "Enabled"
 	},
 	"AndroidDeviceSoftwareRules": {
 		"DeviceSecurityPatchSoftware_Check": "Enabled",
