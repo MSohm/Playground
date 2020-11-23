@@ -1,15 +1,15 @@
 {
 	"MalwareScanRules": {
-		"MalwareUploadType": "WIFI",
-		"MalwareScanTrigger": "CONTINUOUS",
-		"MalwareUploadItemSizeLimit_None": -1,
-		"MalwareUploadItemSizeLimit_Cellular": 50,
-		"MalwareUploadItemSizeLimit_WiFi": 100,
-		"MalwareUploadItemSizeLimit_Cellular_WiFi": -1,
-		"MalwareUploadMonthlySizeLimit_None": -1,
-		"MalwareUploadMonthlySizeLimit_Cellular": 500,
-		"MalwareUploadMonthlySizeLimit_WiFi": 1000,
-		"MalwareUploadMonthlySizeLimit_Cellular_WiFi": -1
+		"MalwareUploadType": "CELLULAR_WIFI",
+		"MalwareScanTrigger": "INITIAL",
+		"MalwareUploadItemSizeLimit_None": 101,
+		"MalwareUploadItemSizeLimit_Cellular": 150,
+		"MalwareUploadItemSizeLimit_WiFi": 125,
+		"MalwareUploadItemSizeLimit_Cellular_WiFi": 111,
+		"MalwareUploadMonthlySizeLimit_None": 112,
+		"MalwareUploadMonthlySizeLimit_Cellular": 555,
+		"MalwareUploadMonthlySizeLimit_WiFi": 1234,
+		"MalwareUploadMonthlySizeLimit_Cellular_WiFi": 456
 	},
 	"ContentCheckerRules": {
 		"SafeBrowsing_CheckType": "ON_DEVICE",
