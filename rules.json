@@ -2,11 +2,9 @@
     "MalwareScanRules": {
         "MalwareUploadType": "WIFI",
         "MalwareScanTrigger": "CONTINUOUS",
-        "MalwareUploadItemSizeLimit_None": -1,
         "MalwareUploadItemSizeLimit_Cellular": 50,
         "MalwareUploadItemSizeLimit_WiFi": 100,
         "MalwareUploadItemSizeLimit_Cellular_WiFi": -1,
-        "MalwareUploadMonthlySizeLimit_None": -1,
         "MalwareUploadMonthlySizeLimit_Cellular": 500,
         "MalwareUploadMonthlySizeLimit_WiFi": 1000,
         "MalwareUploadMonthlySizeLimit_Cellular_WiFi": -1
