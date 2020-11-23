@@ -5,7 +5,7 @@
         "MalwareUploadItemSizeLimit_Cellular": 50,
         "MalwareUploadItemSizeLimit_WiFi": 100,
         "MalwareUploadMonthlySizeLimit_Cellular": 500,
-        "MalwareUploadMonthlySizeLimit_WiFi": 1000,
+        "MalwareUploadMonthlySizeLimit_WiFi": 1000
     },
     "ContentCheckerRules": {
         "SafeBrowsing_CheckType": "CLOUD",
