@@ -4,10 +4,8 @@
 		"MalwareScanTrigger": "INITIAL",
 		"MalwareUploadItemSizeLimit_Cellular": 150,
 		"MalwareUploadItemSizeLimit_WiFi": 125,
-		"MalwareUploadItemSizeLimit_Cellular_WiFi": 111,
 		"MalwareUploadMonthlySizeLimit_Cellular": 555,
 		"MalwareUploadMonthlySizeLimit_WiFi": 1234,
-		"MalwareUploadMonthlySizeLimit_Cellular_WiFi": 456
 	},
 	"ContentCheckerRules": {
 		"SafeBrowsing_CheckType": "ON_DEVICE",
