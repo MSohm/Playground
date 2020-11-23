@@ -40,6 +40,10 @@
         "UploadType": "WIFI_WHILE_CHARGING",
         "UploadMonthlyLimit": "LIMIT_10MB"
     },
+    "DeviceOfflineRules": {
+        "MinutesToMedium": 30,
+        "MinutesToHigh": 60
+    },
     "Features": {
         "AppMalware_Enabled": "ENABLED",
         "AppSideload_Enabled": "ENABLED",
