@@ -36,7 +36,7 @@
 		"SecurityPatchMinimumDate": 1603994010778
 	},
 	"DataCollectionRules": {
-		"DataCollectionEnabled": false,
+		"DataCollectionEnabled": Disabled,
 		"UploadType": "WIFI_AND_MOBILE",
 		"UploadMonthlyLimit": "LIMIT_100MB"
 	},
