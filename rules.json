@@ -36,7 +36,7 @@
         "SecurityPatchMinimumDate": 0
     },
     "DataCollectionRules": {
-        "DataCollectionEnabled": Enabled,
+        "DataCollectionEnabled": "Enabled",
         "UploadType": "WIFI_WHILE_CHARGING",
         "UploadMonthlyLimit": "LIMIT_10MB"
     },
